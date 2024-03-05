@@ -1,0 +1,12 @@
+[book]
+authors = ["Erik Jensson"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Documentation of all and everything"
+
+[output.html]
+curly-quotes = true
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+mathjax-support = true
