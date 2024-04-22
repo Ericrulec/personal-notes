@@ -12,3 +12,4 @@
 # Projects
 
 - [Haskell Interpreter](./haskell_interpreter.md)
+- [Custom Keyboard](./custom_keyboard.md)
