@@ -11,3 +11,8 @@
 - tofu65 o-ring mount
 - Bakeneko60 o-ring
 - KBD67 Rev 2.0 PCB || TADA68 PCG
+
+**Split Keyboards**
+
+- [Corne](https://www.boardsource.xyz/products/Corne)
+- [Advantage360](https://kinesis-ergo.com/keyboards/advantage360/#compare)
